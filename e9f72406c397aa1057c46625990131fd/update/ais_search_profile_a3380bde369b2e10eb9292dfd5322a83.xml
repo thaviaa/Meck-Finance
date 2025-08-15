@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <creator_source/>
+        <description>This is default AI Search profile for Finance Workspace</description>
+        <exclude_from_evaluation>false</exclude_from_evaluation>
+        <genius_result_assembly/>
+        <label>finance-workspace Search Profile</label>
+        <name>x_meug_meck_fina_0_vhpavk_search_profile</name>
+        <publish_id>06304207-1db2-4016-b3a5-a418757dfe4c</publish_id>
+        <qna_model_id>bert-qa-model-1.1.6</qna_model_id>
+        <state>PUBLISHED</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>Apichai.Thavichith@mecklenburgcountync.g</sys_created_by>
+        <sys_created_on>2025-08-14 00:35:16</sys_created_on>
+        <sys_id>a3380bde369b2e10eb9292dfd5322a83</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>finance-workspace Search Profile</sys_name>
+        <sys_package display_value="Meck Finance" source="x_meug_meck_fina_0">e9f72406c397aa1057c46625990131fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</sys_scope>
+        <sys_update_name>ais_search_profile_a3380bde369b2e10eb9292dfd5322a83</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-08-14 00:52:26</sys_updated_on>
+    </ais_search_profile>
+</record_update>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="subcategory" table="x_meug_meck_fina_0_meck_finance" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>subcategory</element>
+            <name>x_meug_meck_fina_0_meck_finance</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Francisco.Vasquez@mecklenburgcountync.go</sys_created_by>
+            <sys_created_on>2025-08-12 19:04:38</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>subcategory</sys_name>
+            <sys_package display_value="Meck Finance" source="x_meug_meck_fina_0">e9f72406c397aa1057c46625990131fd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</sys_scope>
+            <sys_update_name>sys_choice_x_meug_meck_fina_0_meck_finance_subcategory</sys_update_name>
+            <sys_updated_by>Francisco.Vasquez@mecklenburgcountync.go</sys_updated_by>
+            <sys_updated_on>2025-08-12 19:04:38</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Advantage</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Advantage Support</label>
+            <language>en</language>
+            <name>x_meug_meck_fina_0_meck_finance</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>Francisco.Vasquez@mecklenburgcountync.go</sys_created_by>
+            <sys_created_on>2025-08-13 12:57:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>Francisco.Vasquez@mecklenburgcountync.go</sys_updated_by>
+            <sys_updated_on>2025-08-13 14:29:51</sys_updated_on>
+            <u_visible>false</u_visible>
+            <value>Advantage Support</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Troubleshooting/ Issue/Error Code</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Application</label>
+            <language>en</language>
+            <name>x_meug_meck_fina_0_meck_finance</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>Francisco.Vasquez@mecklenburgcountync.go</sys_created_by>
+            <sys_created_on>2025-08-13 12:56:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Apichai.Thavichith@mecklenburgcountync.g</sys_updated_by>
+            <sys_updated_on>2025-08-13 13:28:30</sys_updated_on>
+            <u_visible>false</u_visible>
+            <value>Application</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Check(s)</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Check Reprint(s)</label>
+            <language>en</language>
+            <name>x_meug_meck_fina_0_meck_finance</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>Francisco.Vasquez@mecklenburgcountync.go</sys_created_by>
+            <sys_created_on>2025-08-13 13:00:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>Francisco.Vasquez@mecklenburgcountync.go</sys_updated_by>
+            <sys_updated_on>2025-08-13 14:32:38</sys_updated_on>
+            <u_visible>false</u_visible>
+            <value>Check Reprint(s)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Dashboards</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dashboard Request</label>
+            <language>en</language>
+            <name>x_meug_meck_fina_0_meck_finance</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>Francisco.Vasquez@mecklenburgcountync.go</sys_created_by>
+            <sys_created_on>2025-08-13 12:59:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Francisco.Vasquez@mecklenburgcountync.go</sys_updated_by>
+            <sys_updated_on>2025-08-13 14:31:13</sys_updated_on>
+            <u_visible>false</u_visible>
+            <value>Dashboard Request</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Data</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Data Upload</label>
+            <language>en</language>
+            <name>x_meug_meck_fina_0_meck_finance</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>Francisco.Vasquez@mecklenburgcountync.go</sys_created_by>
+            <sys_created_on>2025-08-12 19:06:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_updated_by>Francisco.Vasquez@mecklenburgcountync.go</sys_updated_by>
+            <sys_updated_on>2025-08-13 14:27:40</sys_updated_on>
+            <u_visible>false</u_visible>
+            <value>Data Upload</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>User Account</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Edit User</label>
+            <language>en</language>
+            <name>x_meug_meck_fina_0_meck_finance</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>Francisco.Vasquez@mecklenburgcountync.go</sys_created_by>
+            <sys_created_on>2025-08-12 19:04:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>10</sys_mod_count>
+            <sys_updated_by>Francisco.Vasquez@mecklenburgcountync.go</sys_updated_by>
+            <sys_updated_on>2025-08-13 14:25:34</sys_updated_on>
+            <u_visible>false</u_visible>
+            <value>Edit User</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Reporting</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Report Request</label>
+            <language>en</language>
+            <name>x_meug_meck_fina_0_meck_finance</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>Francisco.Vasquez@mecklenburgcountync.go</sys_created_by>
+            <sys_created_on>2025-08-13 12:55:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>Francisco.Vasquez@mecklenburgcountync.go</sys_updated_by>
+            <sys_updated_on>2025-08-13 14:28:12</sys_updated_on>
+            <u_visible>false</u_visible>
+            <value>Report Request</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>User Account</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New User</label>
+            <language>en</language>
+            <name>x_meug_meck_fina_0_meck_finance</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>Francisco.Vasquez@mecklenburgcountync.go</sys_created_by>
+            <sys_created_on>2025-08-12 19:04:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>10</sys_mod_count>
+            <sys_updated_by>Francisco.Vasquez@mecklenburgcountync.go</sys_updated_by>
+            <sys_updated_on>2025-08-13 14:25:38</sys_updated_on>
+            <u_visible>false</u_visible>
+            <value>New User</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

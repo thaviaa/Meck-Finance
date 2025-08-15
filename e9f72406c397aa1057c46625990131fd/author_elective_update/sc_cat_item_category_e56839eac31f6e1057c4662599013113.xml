@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Add Unit">ad68f1aac31f6e1057c4662599013127</sc_cat_item>
+        <sc_category display_value="Advantage">c98f491a87536650ed71ff38dabb3545</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>Francisco.Vasquez@mecklenburgcountync.go</sys_created_by>
+        <sys_created_on>2025-08-14 13:24:54</sys_created_on>
+        <sys_id>e56839eac31f6e1057c4662599013113</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Advantage.Add Unit</sys_name>
+        <sys_package display_value="Meck Finance" source="x_meug_meck_fina_0">e9f72406c397aa1057c46625990131fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</sys_scope>
+        <sys_update_name>sc_cat_item_category_e56839eac31f6e1057c4662599013113</sys_update_name>
+        <sys_updated_by>Francisco.Vasquez@mecklenburgcountync.go</sys_updated_by>
+        <sys_updated_on>2025-08-14 13:24:54</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</application>
+        <file_path/>
+        <instance_id>f0a6bb92db9891d84d2bac44d4961942</instance_id>
+        <instance_name>meckncdev</instance_name>
+        <name>sc_cat_item_category_e56839eac31f6e1057c4662599013113</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Add Unit">ad68f1aac31f6e1057c4662599013127</sc_cat_item><sc_category display_value="Advantage">c98f491a87536650ed71ff38dabb3545</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>Francisco.Vasquez@mecklenburgcountync.go</sys_created_by><sys_created_on>2025-08-14 13:24:54</sys_created_on><sys_id>e56839eac31f6e1057c4662599013113</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Advantage.Add Unit</sys_name><sys_package display_value="Meck Finance" source="x_meug_meck_fina_0">e9f72406c397aa1057c46625990131fd</sys_package><sys_policy/><sys_scope display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</sys_scope><sys_update_name>sc_cat_item_category_e56839eac31f6e1057c4662599013113</sys_update_name><sys_updated_by>Francisco.Vasquez@mecklenburgcountync.go</sys_updated_by><sys_updated_on>2025-08-14 13:24:54</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-835961798</payload_hash>
+        <record_name>Advantage.Add Unit</record_name>
+        <reverted_from/>
+        <source>077535a6c31f6e1057c4662599013150</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Francisco.Vasquez@mecklenburgcountync.go</sys_created_by>
+        <sys_created_on>2025-08-14 13:24:54</sys_created_on>
+        <sys_id>a96839eac31f6e1057c4662599013116</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198a8c1429f0000001</sys_recorded_at>
+        <sys_updated_by>Francisco.Vasquez@mecklenburgcountync.go</sys_updated_by>
+        <sys_updated_on>2025-08-14 13:24:54</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>6d6839eabd1f6e103a8ce257973e1f15</update_guid>
+        <update_guid_history>6d6839eabd1f6e103a8ce257973e1f15:-835961798</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Advantage.Add Unit">031b3d22c35f6e1057c46625990131b5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Francisco.Vasquez@mecklenburgcountync.go</sys_created_by>
+        <sys_created_on>2025-08-14 13:36:44</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>23cf6683a3774d20a97c3d66f729f424</sys_id>
+        <sys_metadata>e56839eac31f6e1057c4662599013113</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Advantage.Add Unit</sys_name>
+        <sys_package display_value="Meck Finance" source="x_meug_meck_fina_0">e9f72406c397aa1057c46625990131fd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</sys_scope>
+        <sys_scope_delete display_value="">3d580f5591d44df7b5569667de3e34a9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_e56839eac31f6e1057c4662599013113</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_e56839eac31f6e1057c4662599013113">a96839eac31f6e1057c4662599013116</sys_update_version>
+        <sys_updated_by>Francisco.Vasquez@mecklenburgcountync.go</sys_updated_by>
+        <sys_updated_on>2025-08-14 13:36:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

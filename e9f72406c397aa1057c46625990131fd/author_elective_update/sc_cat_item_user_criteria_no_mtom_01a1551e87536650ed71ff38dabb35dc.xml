@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="DELETE">
+        <sc_cat_item display_value="Advantage-related Requests">cda1551e87536650ed71ff38dabb35da</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>Apichai.Thavichith@mecklenburgcountync.g</sys_created_by>
+        <sys_created_on>2025-08-13 15:57:04</sys_created_on>
+        <sys_id>01a1551e87536650ed71ff38dabb35dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Advantage-related Requests.SNC External</sys_name>
+        <sys_package display_value="Meck Finance" source="x_meug_meck_fina_0">e9f72406c397aa1057c46625990131fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_01a1551e87536650ed71ff38dabb35dc</sys_update_name>
+        <sys_updated_by>Apichai.Thavichith@mecklenburgcountync.g</sys_updated_by>
+        <sys_updated_on>2025-08-13 15:57:04</sys_updated_on>
+        <user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</application>
+        <file_path/>
+        <instance_id>f0a6bb92db9891d84d2bac44d4961942</instance_id>
+        <instance_name>meckncdev</instance_name>
+        <name>sc_cat_item_user_criteria_no_mtom_01a1551e87536650ed71ff38dabb35dc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom"><sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Advantage-related Requests">cda1551e87536650ed71ff38dabb35da</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name><sys_created_by>Apichai.Thavichith@mecklenburgcountync.g</sys_created_by><sys_created_on>2025-08-13 15:57:04</sys_created_on><sys_id>01a1551e87536650ed71ff38dabb35dc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Advantage-related Requests.SNC External</sys_name><sys_package display_value="Meck Finance" source="x_meug_meck_fina_0">e9f72406c397aa1057c46625990131fd</sys_package><sys_policy/><sys_scope display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</sys_scope><sys_update_name>sc_cat_item_user_criteria_no_mtom_01a1551e87536650ed71ff38dabb35dc</sys_update_name><sys_updated_by>Apichai.Thavichith@mecklenburgcountync.g</sys_updated_by><sys_updated_on>2025-08-13 15:57:04</sys_updated_on><user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria></sc_cat_item_user_criteria_no_mtom></record_update>]]></payload>
+        <payload_hash>-1850416607</payload_hash>
+        <record_name>Advantage-related Requests.SNC External</record_name>
+        <reverted_from/>
+        <source>90df2831c322221057c46625990131e6</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2025-07-05 17:25:14</sys_created_on>
+        <sys_id>49761d1687936650ed71ff38dabb3544</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>197db9ee8900000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Catalog Item Not Available for</type>
+        <update_guid>09761d16e0936650b2c5cdd788baef44</update_guid>
+        <update_guid_history>09761d16e0936650b2c5cdd788baef44:-1850416607</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Advantage-related Requests.SNC External">41761d1687936650ed71ff38dabb3545</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Apichai.Thavichith@mecklenburgcountync.g</sys_created_by>
+        <sys_created_on>2025-08-13 16:18:06</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_no_mtom">sc_cat_item_user_criteria_no_mtom</sys_db_object>
+        <sys_id>824135e1f4484210a41b595270dc3100</sys_id>
+        <sys_metadata>01a1551e87536650ed71ff38dabb35dc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Advantage-related Requests.SNC External</sys_name>
+        <sys_package display_value="Meck Finance" source="x_meug_meck_fina_0">e9f72406c397aa1057c46625990131fd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</sys_scope>
+        <sys_scope_delete display_value="">3d580f5591d44df7b5569667de3e34a9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_01a1551e87536650ed71ff38dabb35dc</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_no_mtom_01a1551e87536650ed71ff38dabb35dc">49761d1687936650ed71ff38dabb3544</sys_update_version>
+        <sys_updated_by>Apichai.Thavichith@mecklenburgcountync.g</sys_updated_by>
+        <sys_updated_on>2025-08-13 16:18:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

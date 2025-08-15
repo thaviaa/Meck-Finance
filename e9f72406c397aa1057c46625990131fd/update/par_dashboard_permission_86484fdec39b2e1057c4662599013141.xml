@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>true</can_share>
+        <can_write>true</can_write>
+        <dashboard display_value="Finance Workspace">35484fdec39b2e1057c466259901313e</dashboard>
+        <group/>
+        <owner>true</owner>
+        <role/>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>Apichai.Thavichith@mecklenburgcountync.g</sys_created_by>
+        <sys_created_on>2025-08-14 00:35:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>86484fdec39b2e1057c4662599013141</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>35484fdec39b2e1057c466259901313e</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Meck Finance" source="x_meug_meck_fina_0">e9f72406c397aa1057c46625990131fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</sys_scope>
+        <sys_update_name>par_dashboard_permission_86484fdec39b2e1057c4662599013141</sys_update_name>
+        <sys_updated_by>Apichai.Thavichith@mecklenburgcountync.g</sys_updated_by>
+        <sys_updated_on>2025-08-14 00:35:25</sys_updated_on>
+        <user display_value="Jack Thavichith">85728d0e977a5d1064a937671153af55</user>
+    </par_dashboard_permission>
+</record_update>

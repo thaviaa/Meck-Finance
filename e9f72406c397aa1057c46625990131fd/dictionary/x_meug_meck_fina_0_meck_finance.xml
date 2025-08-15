@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="0e68ac06c397aa1057c46625990131dc" extends="task" label="Meck Finance" max_length="40" name="x_meug_meck_fina_0_meck_finance" text_index="true" type="collection">
+        <element label="Physical Office Location" mandatory="true" max_length="32" name="physical_office_location" reference="cmn_location" type="reference"/>
+        <element choice="1" label="Resolution code" max_length="40" name="close_code" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Best Contact Method" mandatory="true" max_length="40" name="best_contact_method" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Email" sequence="0" value="email"/>
+                <element inactive_on_update="false" label="Phone Call" sequence="1" value="phone_call"/>
+            </choice>
+        </element>
+        <element choice="1" dependent="subcategory" dependent_on_field="subcategory" label="Application" mandatory="true" max_length="40" name="application" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="Edit User" inactive_on_update="false" label="Advantage" sequence="1" value="Advantage"/>
+                <element dependent_value="Application" inactive_on_update="false" label="Other" sequence="4" value="Other"/>
+                <element dependent_value="Advantage Support" inactive_on_update="false" label="Add Grant Unit" sequence="4" value="Add Grant Unit"/>
+                <element dependent_value="Dashboard Request" inactive_on_update="false" label="Error" sequence="2" value="Error"/>
+                <element dependent_value="Advantage Support" inactive_on_update="false" label="Other" sequence="10" value="Other"/>
+                <element dependent_value="Application" inactive_on_update="false" label="Info-Advantage" sequence="2" value="Info-Advantage"/>
+                <element dependent_value="Edit User" inactive_on_update="false" label="Info-Advantage" sequence="5" value="Info-Advantage"/>
+                <element dependent_value="Edit User" inactive_on_update="false" label="Docusign" sequence="4" value="Docusign"/>
+                <element dependent_value="Report Request" inactive_on_update="false" label="Info-Advantage" sequence="1" value="Info-Advantage"/>
+                <element dependent_value="Dashboard Request" inactive_on_update="false" label="Update" sequence="3" value="Update"/>
+                <element dependent_value="Data Upload" inactive_on_update="false" label="Advantage" sequence="1" value="Advantage"/>
+                <element dependent_value="New User" inactive_on_update="false" label="Bcomm" sequence="3" value="Bcomm"/>
+                <element dependent_value="Data Upload" inactive_on_update="false" label="Other" sequence="2" value="Other"/>
+                <element dependent_value="New User" inactive_on_update="false" label="Advantage" sequence="1" value="Advantage"/>
+                <element dependent_value="New User" inactive_on_update="false" label="Amplifund" sequence="2" value="Amplifund"/>
+                <element dependent_value="Dashboard Request" inactive_on_update="false" label="Create" sequence="1" value="Create"/>
+                <element dependent_value="Advantage Support" inactive_on_update="false" label="Add Location Code" sequence="5" value="Add Location Code"/>
+                <element dependent_value="Advantage Support" inactive_on_update="false" label="Add/Update Function Code" sequence="9" value="Add/Update Function Code"/>
+                <element dependent_value="Advantage Support" inactive_on_update="false" label="Add Unit" sequence="8" value="Add Unit"/>
+                <element dependent_value="Report Request" inactive_on_update="false" label="Peoplesoft" sequence="2" value="Peoplesoft"/>
+                <element dependent_value="Advantage Support" inactive_on_update="false" label="Add Sub BSA" sequence="6" value="Add Sub BSA"/>
+                <element dependent_value="Advantage Support" inactive_on_update="false" label="Add Dept. Object Code" sequence="3" value="Add Dept. Object Code"/>
+                <element dependent_value="Check Reprint(s)" inactive_on_update="false" label="Check(s)" sequence="1" value="Check(s)"/>
+                <element dependent_value="Report Request" inactive_on_update="false" label="Other" sequence="3" value="Other"/>
+                <element dependent_value="Application" inactive_on_update="false" label="Peoplesoft" sequence="3" value="Peoplesoft"/>
+                <element dependent_value="Edit User" inactive_on_update="false" label="Amplifund" sequence="2" value="Amplifund"/>
+                <element dependent_value="Application" inactive_on_update="false" label="Advantage" sequence="1" value="Advantage"/>
+                <element dependent_value="Advantage Support" inactive_on_update="false" label="Add Activity Code" sequence="1" value="Add Activity Code"/>
+                <element dependent_value="Edit User" inactive_on_update="false" label="Bcomm" sequence="3" value="Bcomm"/>
+                <element dependent_value="Advantage Support" inactive_on_update="false" label="Add Appropriation Unit" sequence="2" value="Add Appropriation Unit"/>
+                <element dependent_value="New User" inactive_on_update="false" label="Docusign" sequence="4" value="Docusign"/>
+                <element dependent_value="New User" inactive_on_update="false" label="Info-Advantage" sequence="5" value="Info-Advantage"/>
+                <element dependent_value="Advantage Support" inactive_on_update="false" label="Add Sub Revenue Code" sequence="7" value="Add Sub Revenue Code"/>
+                <element dependent_value="Check Reprint(s)" inactive_on_update="false" label="One Check" sequence="2" value="One Check"/>
+            </choice>
+        </element>
+        <element choice="1" dependent="category" dependent_on_field="category" label="Subcategory" mandatory="true" max_length="40" name="subcategory" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="Advantage" inactive_on_update="false" label="Advantage Support" sequence="1" value="Advantage Support"/>
+                <element dependent_value="Reporting" inactive_on_update="false" label="Report Request" sequence="1" value="Report Request"/>
+                <element dependent_value="Troubleshooting/ Issue/Error Code" inactive_on_update="false" label="Application" sequence="1" value="Application"/>
+                <element dependent_value="User Account" inactive_on_update="false" label="New User" sequence="2" value="New User"/>
+                <element dependent_value="Check(s)" inactive_on_update="false" label="Check Reprint(s)" sequence="1" value="Check Reprint(s)"/>
+                <element dependent_value="Data" inactive_on_update="false" label="Data Upload" sequence="1" value="Data Upload"/>
+                <element dependent_value="Dashboards" inactive_on_update="false" label="Dashboard Request" sequence="1" value="Dashboard Request"/>
+                <element dependent_value="User Account" inactive_on_update="false" label="Edit User" sequence="1" value="Edit User"/>
+            </choice>
+        </element>
+        <element choice="1" default="Finance" label="Service" mandatory="true" max_length="40" name="service" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Finance" sequence="0" value="Finance"/>
+            </choice>
+        </element>
+        <element label="Best Contact Phone if different" max_length="255" name="best_contact_phone" type="phone_number_e164"/>
+        <element label="Resolved by" max_length="32" name="resolved_by" reference="sys_user" type="reference"/>
+        <element label="Department" max_length="32" name="department" reference="cmn_department" type="reference"/>
+        <element label="Resolved" max_length="255" name="resolved" type="calendar_date_time"/>
+        <element label="Network ID" max_length="40" name="network_id" type="string"/>
+        <element choice="1" dependent="service" dependent_on_field="service" label="Category" mandatory="true" max_length="40" name="category" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="Finance" inactive_on_update="false" label="Troubleshooting/ Issue/Error Code" sequence="6" value="Troubleshooting/ Issue/Error Code"/>
+                <element dependent_value="Finance" inactive_on_update="false" label="Data" sequence="4" value="Data"/>
+                <element dependent_value="Finance" inactive_on_update="false" label="Advantage" sequence="1" value="Advantage"/>
+                <element dependent_value="Finance" inactive_on_update="false" label="Check(s)" sequence="2" value="Check(s)"/>
+                <element dependent_value="Finance" inactive_on_update="false" label="User Account" sequence="7" value="User Account"/>
+                <element dependent_value="Finance" inactive_on_update="false" label="Reporting" sequence="5" value="Reporting"/>
+                <element dependent_value="Finance" inactive_on_update="false" label="Dashboards" sequence="3" value="Dashboards"/>
+            </choice>
+        </element>
+    </element>
+</database>

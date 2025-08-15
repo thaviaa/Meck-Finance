@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>finance_workspace</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>Apichai.Thavichith@mecklenburgcountync.g</sys_created_by>
+        <sys_created_on>2025-08-14 00:35:17</sys_created_on>
+        <sys_id>23380bde359b2e10bd577f2b80ac397b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Finance Workspace</sys_name>
+        <sys_package display_value="Meck Finance" source="x_meug_meck_fina_0">e9f72406c397aa1057c46625990131fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</sys_scope>
+        <sys_update_name>sys_ui_view_23380bde359b2e10bd577f2b80ac397b</sys_update_name>
+        <sys_updated_by>Apichai.Thavichith@mecklenburgcountync.g</sys_updated_by>
+        <sys_updated_on>2025-08-14 14:24:49</sys_updated_on>
+        <title>Finance Workspace</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</application>
+        <file_path/>
+        <instance_id>f0a6bb92db9891d84d2bac44d4961942</instance_id>
+        <instance_name>meckncdev</instance_name>
+        <name>sys_ui_view_23380bde359b2e10bd577f2b80ac397b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>false</hidden><name>finance_workspace</name><roles/><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>Apichai.Thavichith@mecklenburgcountync.g</sys_created_by><sys_created_on>2025-08-14 00:35:17</sys_created_on><sys_id>23380bde359b2e10bd577f2b80ac397b</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Finance Workspace</sys_name><sys_package display_value="Meck Finance" source="x_meug_meck_fina_0">e9f72406c397aa1057c46625990131fd</sys_package><sys_policy/><sys_scope display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</sys_scope><sys_update_name>sys_ui_view_23380bde359b2e10bd577f2b80ac397b</sys_update_name><sys_updated_by>Apichai.Thavichith@mecklenburgcountync.g</sys_updated_by><sys_updated_on>2025-08-14 14:24:49</sys_updated_on><title>Finance Workspace</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>-1067357162</payload_hash>
+        <record_name>Finance Workspace</record_name>
+        <reverted_from/>
+        <source>adf76406c397aa1057c4662599013101</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Apichai.Thavichith@mecklenburgcountync.g</sys_created_by>
+        <sys_created_on>2025-08-14 14:24:49</sys_created_on>
+        <sys_id>1f1602a2c39f6e1057c46625990131c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198a8f81c4a0000001</sys_recorded_at>
+        <sys_updated_by>Apichai.Thavichith@mecklenburgcountync.g</sys_updated_by>
+        <sys_updated_on>2025-08-14 14:24:49</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>531602a26e9f6e1092af34edee15a2c4</update_guid>
+        <update_guid_history>531602a26e9f6e1092af34edee15a2c4:-1067357162,9f1602a2be9f6e10deed6288ecff87c1:-333729265</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Apichai.Thavichith@mecklenburgcountync.g</sys_created_by>
+        <sys_created_on>2025-08-14 14:28:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>46fc72fc462d4c3d988f6314f4bc6679</sys_id>
+        <sys_metadata>23380bde359b2e10bd577f2b80ac397b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Finance Workspace</sys_name>
+        <sys_package display_value="Meck Finance" source="x_meug_meck_fina_0">e9f72406c397aa1057c46625990131fd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</sys_scope>
+        <sys_scope_delete display_value="">3d580f5591d44df7b5569667de3e34a9</sys_scope_delete>
+        <sys_update_name>sys_ui_view_23380bde359b2e10bd577f2b80ac397b</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_23380bde359b2e10bd577f2b80ac397b">1f1602a2c39f6e1057c46625990131c4</sys_update_version>
+        <sys_updated_by>Apichai.Thavichith@mecklenburgcountync.g</sys_updated_by>
+        <sys_updated_on>2025-08-14 14:28:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
