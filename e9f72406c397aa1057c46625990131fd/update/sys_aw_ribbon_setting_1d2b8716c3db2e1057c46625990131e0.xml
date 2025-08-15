@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_ribbon_setting">
+    <sys_aw_ribbon_setting action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <attrs/>
+        <component display_value="Active SLA">5acf80a48710230084aca571d5cb0b69</component>
+        <experience_restricted>true</experience_restricted>
+        <is_inheritable>false</is_inheritable>
+        <name>Active SLA</name>
+        <order>0</order>
+        <sys_class_name>sys_aw_ribbon_setting</sys_class_name>
+        <sys_created_by>Apichai.Thavichith@mecklenburgcountync.g</sys_created_by>
+        <sys_created_on>2025-08-14 00:47:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1d2b8716c3db2e1057c46625990131e0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Active SLA</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Meck Finance" source="x_meug_meck_fina_0">e9f72406c397aa1057c46625990131fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</sys_scope>
+        <sys_update_name>sys_aw_ribbon_setting_1d2b8716c3db2e1057c46625990131e0</sys_update_name>
+        <sys_updated_by>Apichai.Thavichith@mecklenburgcountync.g</sys_updated_by>
+        <sys_updated_on>2025-08-14 00:48:40</sys_updated_on>
+        <table>x_meug_meck_fina_0_meck_finance</table>
+        <tag>sn-component-workspace-sla</tag>
+        <width>2</width>
+        <workspace/>
+    </sys_aw_ribbon_setting>
+    <sys_variable_value action="delete_multiple" query="document_key=1d2b8716c3db2e1057c46625990131e0"/>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>Apichai.Thavichith@mecklenburgcountync.g</sys_created_by>
+        <sys_created_on>2025-08-14 00:35:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6b380bde339b2e10b57b1a19247a1d81</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Meck Finance" source="x_meug_meck_fina_0">e9f72406c397aa1057c46625990131fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</sys_scope>
+        <sys_update_name>m2m_app_config_theme_6b380bde339b2e10b57b1a19247a1d81</sys_update_name>
+        <sys_updated_by>Apichai.Thavichith@mecklenburgcountync.g</sys_updated_by>
+        <sys_updated_on>2025-08-14 00:35:16</sys_updated_on>
+        <theme display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</theme>
+        <ux_app_configuration display_value="Finance Workspace App Config">2b380bdee99b2e10411431d579389882</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="61088a66c39f6e1057c4662599013162" sys_domain="global" table="x_meug_meck_fina_0_meck_finance" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>Apichai.Thavichith@mecklenburgcountync.g</sys_created_by>
+            <sys_created_on>2025-08-14 14:33:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ed08ca66c39f6e1057c466259901313b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_meug_meck_fina_0_meck_finance" name="x_meug_meck_fina_0_meck_finance" sys_domain="global" view="422606a2c39f6e1057c466259901312a">61088a66c39f6e1057c4662599013162</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_meug_meck_fina_0_meck_finance" sys_domain="global" view="422606a2c39f6e1057c466259901312a">a1088a66c39f6e1057c4662599013167</sys_ui_section>
+            <sys_updated_by>Apichai.Thavichith@mecklenburgcountync.g</sys_updated_by>
+            <sys_updated_on>2025-08-14 14:33:10</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>Apichai.Thavichith@mecklenburgcountync.g</sys_created_by>
+            <sys_created_on>2025-08-14 14:33:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2108ca66c39f6e1057c4662599013156</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_meug_meck_fina_0_meck_finance" name="x_meug_meck_fina_0_meck_finance" sys_domain="global" view="422606a2c39f6e1057c466259901312a">61088a66c39f6e1057c4662599013162</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_meug_meck_fina_0_meck_finance" sys_domain="global" view="422606a2c39f6e1057c466259901312a">e908ca66c39f6e1057c4662599013154</sys_ui_section>
+            <sys_updated_by>Apichai.Thavichith@mecklenburgcountync.g</sys_updated_by>
+            <sys_updated_on>2025-08-14 14:33:10</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>Apichai.Thavichith@mecklenburgcountync.g</sys_created_by>
+            <sys_created_on>2025-08-14 14:33:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2108ca66c39f6e1057c466259901315c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_meug_meck_fina_0_meck_finance" name="x_meug_meck_fina_0_meck_finance" sys_domain="global" view="422606a2c39f6e1057c466259901312a">61088a66c39f6e1057c4662599013162</sys_ui_form>
+            <sys_ui_section caption="Resolution Information" display_value="Resolution Information" name="x_meug_meck_fina_0_meck_finance" sys_domain="global" view="422606a2c39f6e1057c466259901312a">e908ca66c39f6e1057c466259901315a</sys_ui_section>
+            <sys_updated_by>Apichai.Thavichith@mecklenburgcountync.g</sys_updated_by>
+            <sys_updated_on>2025-08-14 14:33:10</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_meug_meck_fina_0_meck_finance</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>Apichai.Thavichith@mecklenburgcountync.g</sys_created_by>
+            <sys_created_on>2025-08-14 14:33:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>61088a66c39f6e1057c4662599013162</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_meug_meck_fina_0_meck_finance</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Meck Finance" source="x_meug_meck_fina_0">e9f72406c397aa1057c46625990131fd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</sys_scope>
+            <sys_update_name>sys_ui_form_sections_61088a66c39f6e1057c4662599013162</sys_update_name>
+            <sys_updated_by>Apichai.Thavichith@mecklenburgcountync.g</sys_updated_by>
+            <sys_updated_on>2025-08-14 14:33:10</sys_updated_on>
+            <sys_user/>
+            <view display_value="Finance Workspace " name="Workspace-Finance-Workspace-0">422606a2c39f6e1057c466259901312a</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

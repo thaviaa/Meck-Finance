@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Advantage-related Requests">cda1551e87536650ed71ff38dabb35da</sc_cat_item>
+        <sc_catalog display_value="Finance">2a4f811a87536650ed71ff38dabb3548</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>Apichai.Thavichith@mecklenburgcountync.g</sys_created_by>
+        <sys_created_on>2025-08-13 15:58:24</sys_created_on>
+        <sys_id>6cf1dd1e87536650ed71ff38dabb3510</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Finance.Advantage-related Requests</sys_name>
+        <sys_package display_value="Meck Finance" source="x_meug_meck_fina_0">e9f72406c397aa1057c46625990131fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_6cf1dd1e87536650ed71ff38dabb3510</sys_update_name>
+        <sys_updated_by>Apichai.Thavichith@mecklenburgcountync.g</sys_updated_by>
+        <sys_updated_on>2025-08-13 15:58:24</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</application>
+        <file_path/>
+        <instance_id>f0a6bb92db9891d84d2bac44d4961942</instance_id>
+        <instance_name>meckncdev</instance_name>
+        <name>sc_cat_item_catalog_6cf1dd1e87536650ed71ff38dabb3510</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Advantage-related Requests">cda1551e87536650ed71ff38dabb35da</sc_cat_item><sc_catalog display_value="Finance">2a4f811a87536650ed71ff38dabb3548</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>Apichai.Thavichith@mecklenburgcountync.g</sys_created_by><sys_created_on>2025-08-13 15:58:24</sys_created_on><sys_id>6cf1dd1e87536650ed71ff38dabb3510</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Finance.Advantage-related Requests</sys_name><sys_package display_value="Meck Finance" source="x_meug_meck_fina_0">e9f72406c397aa1057c46625990131fd</sys_package><sys_policy/><sys_scope display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</sys_scope><sys_update_name>sc_cat_item_catalog_6cf1dd1e87536650ed71ff38dabb3510</sys_update_name><sys_updated_by>Apichai.Thavichith@mecklenburgcountync.g</sys_updated_by><sys_updated_on>2025-08-13 15:58:24</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1215759862</payload_hash>
+        <record_name>Finance.Advantage-related Requests</record_name>
+        <reverted_from/>
+        <source>adf76406c397aa1057c4662599013101</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Apichai.Thavichith@mecklenburgcountync.g</sys_created_by>
+        <sys_created_on>2025-08-13 15:58:24</sys_created_on>
+        <sys_id>24f1dd1e87536650ed71ff38dabb3514</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198a4276ec60000001</sys_recorded_at>
+        <sys_updated_by>Apichai.Thavichith@mecklenburgcountync.g</sys_updated_by>
+        <sys_updated_on>2025-08-13 15:58:24</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>24f1dd1eeb5366505d5be04434d24b13</update_guid>
+        <update_guid_history>24f1dd1eeb5366505d5be04434d24b13:1215759862</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Finance.Advantage-related Requests">c576dd9287936650ed71ff38dabb356e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Apichai.Thavichith@mecklenburgcountync.g</sys_created_by>
+        <sys_created_on>2025-08-13 16:18:06</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>002b26ddb2ac41858848daed4c235b71</sys_id>
+        <sys_metadata>6cf1dd1e87536650ed71ff38dabb3510</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Finance.Advantage-related Requests</sys_name>
+        <sys_package display_value="Meck Finance" source="x_meug_meck_fina_0">e9f72406c397aa1057c46625990131fd</sys_package>
+        <sys_parent display_value="">cda1551e87536650ed71ff38dabb35da</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</sys_scope>
+        <sys_scope_delete display_value="">3d580f5591d44df7b5569667de3e34a9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_6cf1dd1e87536650ed71ff38dabb3510</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_6cf1dd1e87536650ed71ff38dabb3510">24f1dd1e87536650ed71ff38dabb3514</sys_update_version>
+        <sys_updated_by>Apichai.Thavichith@mecklenburgcountync.g</sys_updated_by>
+        <sys_updated_on>2025-08-13 16:18:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

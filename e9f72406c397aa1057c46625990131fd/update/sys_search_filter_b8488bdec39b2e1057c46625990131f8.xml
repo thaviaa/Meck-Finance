@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Meck Finance">38488bdec39b2e1057c46625990131d9</ais_search_source>
+        <label>Meck Finance</label>
+        <name>Meck Finance</name>
+        <order>100</order>
+        <search_context_config display_value="Finance Workspace AI Search Configuration">a3380bde169b2e10e52c8ab5cfebde7c</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>Apichai.Thavichith@mecklenburgcountync.g</sys_created_by>
+        <sys_created_on>2025-08-14 00:35:21</sys_created_on>
+        <sys_id>b8488bdec39b2e1057c46625990131f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Meck Finance</sys_name>
+        <sys_package display_value="Meck Finance" source="x_meug_meck_fina_0">e9f72406c397aa1057c46625990131fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</sys_scope>
+        <sys_update_name>sys_search_filter_b8488bdec39b2e1057c46625990131f8</sys_update_name>
+        <sys_updated_by>Apichai.Thavichith@mecklenburgcountync.g</sys_updated_by>
+        <sys_updated_on>2025-08-14 00:35:21</sys_updated_on>
+    </sys_search_filter>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>Apichai.Thavichith@mecklenburgcountync.g</sys_created_by>
+        <sys_created_on>2025-08-12 18:18:31</sys_created_on>
+        <sys_id>cb682046c397aa1057c466259901313d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_meug_meck_fina_0_meck_finance.x_meug_meck_fina_0.admin</sys_name>
+        <sys_package display_value="Meck Finance" source="x_meug_meck_fina_0">e9f72406c397aa1057c46625990131fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</sys_scope>
+        <sys_security_acl display_value="x_meug_meck_fina_0_meck_finance">cb682046c397aa1057c4662599013110</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cb682046c397aa1057c466259901313d</sys_update_name>
+        <sys_updated_by>Apichai.Thavichith@mecklenburgcountync.g</sys_updated_by>
+        <sys_updated_on>2025-08-12 18:18:31</sys_updated_on>
+        <sys_user_role display_value="x_meug_meck_fina_0.admin" name="x_meug_meck_fina_0.admin">f5f76406c397aa1057c466259901319d</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

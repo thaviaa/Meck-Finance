@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_ribbon_config_setting">
+    <sys_ux_ribbon_config_setting action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <configuration display_value="Finance Workspace Ribbon Config">6f380bde9c9b2e104159b5b9e966b674</configuration>
+        <order>100</order>
+        <ribbon display_value="Active SLA">1d2b8716c3db2e1057c46625990131e0</ribbon>
+        <specificity>20</specificity>
+        <sys_class_name>sys_ux_ribbon_config_setting</sys_class_name>
+        <sys_created_by>Apichai.Thavichith@mecklenburgcountync.g</sys_created_by>
+        <sys_created_on>2025-08-14 00:47:57</sys_created_on>
+        <sys_id>a92b8b16c3db2e1057c466259901317e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Meck Finance" source="x_meug_meck_fina_0">e9f72406c397aa1057c46625990131fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</sys_scope>
+        <sys_update_name>sys_ux_ribbon_config_setting_a92b8b16c3db2e1057c466259901317e</sys_update_name>
+        <sys_updated_by>Apichai.Thavichith@mecklenburgcountync.g</sys_updated_by>
+        <sys_updated_on>2025-08-14 00:48:39</sys_updated_on>
+        <table>x_meug_meck_fina_0_meck_finance</table>
+        <width>2</width>
+    </sys_ux_ribbon_config_setting>
+</record_update>
