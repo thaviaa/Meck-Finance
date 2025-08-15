@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ex_sp_activity_config_detail">
+    <sn_ex_sp_activity_config_detail action="INSERT_OR_UPDATE">
+        <action_group_record/>
+        <active>true</active>
+        <activity_configuration display_value="Finance">bdc89bf2c31fee1057c4662599013184</activity_configuration>
+        <badge/>
+        <badge_color/>
+        <card_mapping_script/>
+        <conditions table="x_meug_meck_fina_0_meck_finance">opened_byDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ<item endquery="false" field="opened_by" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <external_link/>
+        <field_1/>
+        <field_2/>
+        <image/>
+        <internal_link/>
+        <list_view_mapping>BASIC</list_view_mapping>
+        <order>100</order>
+        <sys_class_name>sn_ex_sp_activity_config_detail</sys_class_name>
+        <sys_created_by>Apichai.Thavichith@mecklenburgcountync.g</sys_created_by>
+        <sys_created_on>2025-08-15 15:06:26</sys_created_on>
+        <sys_id>89299736c31fee1057c466259901318b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Meck Finance" source="x_meug_meck_fina_0">e9f72406c397aa1057c46625990131fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</sys_scope>
+        <sys_update_name>sn_ex_sp_activity_config_detail_89299736c31fee1057c466259901318b</sys_update_name>
+        <sys_updated_by>Apichai.Thavichith@mecklenburgcountync.g</sys_updated_by>
+        <sys_updated_on>2025-08-15 15:06:26</sys_updated_on>
+        <table>x_meug_meck_fina_0_meck_finance</table>
+        <target_page/>
+        <title/>
+    </sn_ex_sp_activity_config_detail>
+</record_update>
