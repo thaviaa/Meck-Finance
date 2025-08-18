@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
     <sys_user_role_contains action="INSERT_OR_UPDATE">
-        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <contains display_value="sn_request_write" name="sn_request_write">89d4c6040f103300402c6b198b767e3c</contains>
         <role display_value="x_meug_meck_fina_0.user" name="x_meug_meck_fina_0.user">16f76406c397aa1057c46625990131a4</role>
         <sys_class_name>sys_user_role_contains</sys_class_name>
         <sys_created_by>Apichai.Thavichith@mecklenburgcountync.g</sys_created_by>
-        <sys_created_on>2025-08-14 00:35:19</sys_created_on>
-        <sys_id>ec484bdec39b2e1057c46625990131d8</sys_id>
+        <sys_created_on>2025-08-15 17:22:56</sys_created_on>
+        <sys_id>5278737ec39fee1057c46625990131a3</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>canvas_user.x_meug_meck_fina_0.user</sys_name>
+        <sys_name>sn_request_write.x_meug_meck_fina_0.user</sys_name>
         <sys_package display_value="Meck Finance" source="x_meug_meck_fina_0">e9f72406c397aa1057c46625990131fd</sys_package>
         <sys_policy/>
         <sys_scope display_value="Meck Finance">e9f72406c397aa1057c46625990131fd</sys_scope>
-        <sys_update_name>sys_user_role_contains_ec484bdec39b2e1057c46625990131d8</sys_update_name>
+        <sys_update_name>sys_user_role_contains_5278737ec39fee1057c46625990131a3</sys_update_name>
         <sys_updated_by>Apichai.Thavichith@mecklenburgcountync.g</sys_updated_by>
-        <sys_updated_on>2025-08-14 00:35:19</sys_updated_on>
+        <sys_updated_on>2025-08-15 17:22:56</sys_updated_on>
     </sys_user_role_contains>
 </record_update>
